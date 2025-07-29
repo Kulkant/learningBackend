@@ -1,0 +1,19 @@
+{
+  "name": "backend-learn",
+  "version": "1.0.0",
+  "description": "learning backend with chai aur code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chai",
+    "aur",
+    "code",
+    "javascript",
+    "kulkant",
+    "node"
+  ],
+  "author": "Kulkant Sharma",
+  "license": "ISC"
+}
